@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/i18n.ts","./src/main.tsx","./src/vite-env.d.ts","./src/feature/index.ts","./src/feature/about-me/index.tsx","./src/feature/hero/index.tsx","./src/feature/navbar/index.tsx","./src/feature/portofolio/index.tsx","./src/feature/skills/index.tsx","./src/utils/i18n.ts"],"version":"5.6.2"}
